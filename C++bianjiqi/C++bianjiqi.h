@@ -1,0 +1,22 @@
+﻿#pragma once
+
+#include <iostream>
+#include <QApplication>
+#include <QMainWindow>
+#include <QLabel>
+#include <QFont>
+#include <QMenuBar>
+#include <QMenu>
+#include <QAction>
+#include <QTextEdit>
+#include <QFileDialog>
+#include <QVBoxLayout>
+#include <QMessageBox>
+#include <QLibraryInfo> 
+#include <QProcess>
+#include <QInputDialog>
+#include <QRegularExpression>
+#include <QStandardPaths>
+#include <QComboBox>
+#include <QToolBar>
+#include "httplib.h"
